@@ -1,0 +1,9 @@
+__pycache__/
+sklearn-env/
+*.ipynb
+*.zip
+*.keras
+saved_model/
+dataset/
+lung_colon_image_set/
+venv/
